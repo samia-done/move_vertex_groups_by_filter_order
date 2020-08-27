@@ -6,11 +6,13 @@
 複数の頂点グループを一度に移動するためのパネルをプロパティのデータに追加します。
 2.79bおよび、2.8x以降に対応しています。
 
-![Blenderプリファレンス](./document/images/2020-08-28_001.gif)
+![Demo](./document/images/2020-08-28_001.gif)
 
 ## Download
 
-画面右上にある［Clone or download］ ＞ ［Dwonload ZIP］の順にクリックして、Zipファイルをダウンロードしてください。
+画面右上にある［Code ▼］ ＞ ［Dwonload ZIP］の順にクリックして、ZIPファイルをダウンロードしてください。
+
+![Download](./document/images/20200828_0249_11.png)
 
 ## Install
 
